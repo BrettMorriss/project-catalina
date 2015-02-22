@@ -1,0 +1,22 @@
+{
+  "name": "ProjectCatalina",
+  "version": "1.0.0",
+  "description": "Grooper App",
+  "main": "index.js",
+  "dependencies": {
+    "hapi": "^8.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "What is a grooper?",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "foo",
+    "bar",
+    "green",
+    "groop"
+  ],
+  "author": "Brett Morriss",
+  "license": "BSD-2-Clause"
+}
